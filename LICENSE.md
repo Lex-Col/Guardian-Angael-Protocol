@@ -7,12 +7,12 @@
 ## 1. OWNERSHIP & SCOPE
 The **Guardian Angel Protocol (GAP)**, including but not limited to the **Deaf Warden (RMM Oracle)** architecture, the **Atomic Inhibit Sequence**, the **322-Byte Packed C-Struct** layout, and the **Universal Guillotine** logic, is the exclusive intellectual property of Alexander Colclough. This protection extends to all architectural diagrams, logic workflows, telemetry parameters, and **any and all derivative applications or conceptual evolutions** based on this work.
 
-## 2. PERMITTED USE (INDIVIDUAL ONLY)
-Permission is hereby granted, free of charge, to any **individual** obtaining a copy of the GAP documentation and simulation logic to utilize the material for the following **non-commercial** purposes. This permission is **strictly personal and non-transferable**, and does not extend to any corporation, organization, or government entity:
+## 2. PERMITTED USE (RESEARCH & PEER REVIEW)
+Permission is hereby granted, free of charge, to any **Individual, Researcher, or Technical Auditor** obtaining a copy of the GAP documentation and simulation logic to utilize the material for the following **non-commercial** purposes. This permission allows for the following activities within private, academic, or professional research environments, provided no revenue is generated from the GAP architecture:
 
-* **Intellectual Audit:** Reviewing and studying the technical logic and hardware-enforced isolation layers.
-* **Simulation Validation:** Executing the included simulation environments (e.g., gap_v1_demo.sh) in a private, non-commercial capacity to verify the protocol.
-* **Personal Research:** Utilizing the framework for personal growth and individual understanding of Confidential Compute Architectures.
+* **Intellectual Audit:** Reviewing and studying the technical logic, memory-mapped C-Structs, and hardware-enforced isolation layers (e.g., Deaf Warden RMM).
+* **Simulation & Validation:** Executing the included boot and simulation environment—specifically firing up the Warden via `bl1_boot.sh` followed by `gap_v1_demo.sh`—strictly to verify architectural integrity and RME-simulation boundaries.
+* **Peer Evaluation:** Utilizing the framework for individual understanding or institutional peer review of Confidential Compute Architectures. Any such review must adhere to the Attribution requirements in Section 4.
 
 ## 3. PROHIBITED USE: NOT OPEN SOURCE
 Any use of GAP outside of the permitted scopes defined in Section 2 is strictly prohibited without a separate, written commercial agreement. Prohibited actions include:
