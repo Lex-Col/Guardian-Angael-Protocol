@@ -7,7 +7,7 @@ This is a high-integrity security protocol. If you identify a bypass in the "Dea
 
 ### 2. Private Disclosure
 Broadcasted vulnerabilities only serve to compromise the mission. Please report all security-critical findings directly to the Architect at:
-**[Insert Your Email Here]**
+**colclough.alexander@proton.me**
 
 The Architect will review the findings, validate the simulation, and push a patch to the Forge.
 
