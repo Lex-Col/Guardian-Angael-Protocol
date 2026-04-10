@@ -15,7 +15,7 @@ int main() {
     
     for (uint64_t i = 1; i <= TOTAL_CYCLES; ++i) {
         
-        // Physically hauling "hypothetical" data through the RAM
+        // Physically hauling data through the RAM
         trash_parcel[0] = (uint8_t)(i & 0xFF);         
         trash_parcel[383] = (uint8_t)((i >> 8) & 0xFF); 
         
@@ -25,7 +25,7 @@ int main() {
         // Visual Progress Checkpoints
         if (i % CHECKPOINT == 0) {
             std::cout << "[+] WARDEN VERIFIED: " << (i / 1000000) 
-                      << " Million Cycles - Organic Hardware Drag - 0.00% Drift.\n" << std::flush;
+                      << " Million Cycles - Organic Hardware Drag.\n" << std::flush;
         }
     }
     
@@ -36,6 +36,8 @@ int main() {
     return 0;
 }
 
-
-# COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (@Lex-Col). ALL RIGHTS RESERVED.
-# LICENSED FOR INDIVIDUAL AUDIT, TESTING, AND NON-COMMERCIAL RESEARCH ONLY.
+// ==============================================================================
+// ⚖️ INTELLECTUAL PROPERTY NOTICE & COPYRIGHT
+// Copyright © 2026 Alexander Colclough (@Lex-Col). All Rights Reserved.
+// LICENSED FOR INDIVIDUAL AUDIT, TESTING, AND NON-COMMERCIAL RESEARCH ONLY.
+// ==============================================================================
