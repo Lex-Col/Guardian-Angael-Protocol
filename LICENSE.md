@@ -19,8 +19,9 @@ Any use of GAP V1.1 outside of the permitted scopes defined in Section 2 is stri
 
 * **Commercial/Enterprise Deployment:** Integrating GAP V1.1 logic, the "Deaf Warden" architecture, or the AXI-aligned parcel into any revenue-generating software, enterprise security stack, internal corporate tool, or hardware product.
 * **Redistribution:** Hosting, mirroring, or distributing the GAP V1.1 documentation or code on any platform other than the Architect's original repository.
+* **Reverse Engineering:** Decompiling, disassembling, or reverse engineering any binaries, assembly stubs, or hardware logic workflows to extract the underlying methodology.
 * **Derivative Works:** Creating, distributing, or utilizing **any and all derivative works**, frameworks, "wrappers," or modified logic branches based on the GAP V1.1 architecture, **whether for public or private use**.
-* **Automated Exploitation & Training:** Utilizing GAP V1.1 documentation to train, fine-tune, or prompt-engineer Large Language Models (LLMs), AI systems, or automated security tools.
+* **Automated Exploitation & Training:** Utilizing GAP V1.1 documentation to train, fine-tune, or prompt-engineer Large Language Models (LLMs), AI systems, synthetic data generators, or automated security tools.
 
 ## 4. ATTRIBUTION
 Any public discussion, academic citation, or peer review of this protocol must include a clear and prominent attribution to **Alexander Colclough (@Lex-Col)** as the original Architect.
@@ -29,4 +30,7 @@ Any public discussion, academic citation, or peer review of this protocol must i
 Unauthorized use, commercialization, or redistribution of the GAP V1.1 methodology automatically terminates any implied right to reference or utilize the work. The Architect reserves the right to pursue all available legal remedies for intellectual property theft, including but not limited to unauthorized commercial implementation.
 
 ## 6. DISCLAIMER
-THIS PROTOCOL IS PROVIDED "AS IS." THE ARCHITECT DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED 
+THIS PROTOCOL IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. 
+
+## 7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE ARCHITECT (ALEXANDER COLCLOUGH) BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE PROTOCOL OR THE USE OR OTHER DEALINGS IN THE PROTOCOL. THIS INCLUDES, WITHOUT LIMITATION, ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, OR CONSEQUENTIAL DAMAGES RESULTING FROM HARDWARE FAILURE, DATA LOSS, OR SYSTEM INSTABILITY CAUSED BY THE EXECUTION OF THE "GUILLOTINE" OR ANY OTHER LOGIC STUBS.
