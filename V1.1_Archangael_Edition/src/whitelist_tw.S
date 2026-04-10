@@ -47,4 +47,9 @@ gate_tw_check:
     ldp x29, x30, [sp], #16
     ret
 
-/* * COPYRIGHT (c) 2026 ALEXANDER COLCLOUGH (@Lex-Col). ALL RIGHTS RESERVED. */
+/* ==============================================================================
+   ⚖️ INTELLECTUAL PROPERTY NOTICE & COPYRIGHT
+   Copyright © 2026 Alexander Colclough (@Lex-Col). All Rights Reserved.
+   LICENSED FOR INDIVIDUAL AUDIT, TESTING, AND NON-COMMERCIAL RESEARCH ONLY.
+   ============================================================================== */
+
