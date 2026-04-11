@@ -1,4 +1,4 @@
-# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.4
+# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.5
 
 **BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION OR REPOSITORY, YOU EXPLICITLY AND IRREVOCABLY AGREE TO ALL TERMS OUTLINED IN THIS BINDING CONTRACT.**
 
@@ -7,7 +7,7 @@
 ---
 
 ## 1. OWNERSHIP & UNIVERSAL ARCHITECTURAL SCOPE
-The **Universal Proprietary Architecture License (UPAL)** v1.4 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
+The **Universal Proprietary Architecture License (UPAL)** v1.5 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
 
 This protection explicitly covers the following defined proprietary assets and their functional logic, eliminating any ambiguity regarding the protected scope:
 
@@ -36,7 +36,7 @@ This protection explicitly covers the following defined proprietary assets and t
 * **HYBRID SAP DUAL-STREAM RECEIPT:** The simultaneous dual-parsing telemetry routing that splits Gauntlet audit outputs into a machine-indexed JSON stream (exclusively for PSC state updates) and a human-readable Markdown report containing the full unredacted paper trail (including Human-Only Rejection Logs).
 * **PSC (PARTNER-IN-STATE) PROTOCOL:** The dedicated Project Historian utilizing Strategic Siloing to ensure the Architect's intent survives hardware resets while remaining actively shielded from rejected audit data.
 * **AXIOM PINNING & AVP:** The memory-locking protocol that hard-codes foundational project truths to prevent logic drift, governed by the 4-step Axiom Versioning Protocol.
-* **WATERFALL INITIATION PROTOCOL:** The sequential system boot-up sequence that verifies isolations and synchronizes all agents to the Gold Manifest.
+* **WATERFALL INITIATION PROTOCOL:** An adaptive hardware throttle and sequential boot-up logic designed to stagger multi-agent queries, explicitly engineered to prevent network saturation, packet collision, and terminal bottlenecks.
 * **CONTINUITY ANCHOR:** The context-bridging mechanism ensuring nuanced data points survive the transition between audit phases.
 * **TACTICAL TRANSLATOR:** The logic bridge responsible for converting high-level architectural goals into low-level terminal execution workflows.
 * **THE FORGE:** The high-intensity ideation node for initial drafting and logic generation.
@@ -71,21 +71,4 @@ Any public discussion or peer review must credit **Alexander Colclough (@Lex-Col
 **CONTRACTUAL ASSIGNMENT:** By accessing this documentation, you explicitly agree that should you create any unauthorized functional derivative, intellectual convergence, or modification in violation of this license, you shall immediately and irrevocably assign 100% of all rights, title, and ownership in such work to Alexander Colclough upon demand, at no cost. This assignment obligation is a condition of access and survives termination of any permitted use.
 
 ## 5. PATENT RESERVATION & NO IMPLIED GRANT
-Accessing this documentation does NOT grant, expressly or implicitly, any license under any patent, trademark, or trade secret rights held by the Author. Commercial implementation of any functional method described herein requires a separate, negotiated patent and commercial use license.
-
-## 6. EXPORT CONTROL COMPLIANCE
-This protocol details advanced cryptographic hardware isolation (including AES-XTS and ECDSA-P384). By accessing this architecture, you acknowledge that this technology is subject to international export control regulations (including the Wassenaar Arrangement) and agree to comply strictly with all applicable laws in your jurisdiction.
-
-## 7. FULL LEGAL DISCLAIMER
-THIS PROTOCOL AND ALL ASSOCIATED DOCUMENTATION ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, SYSTEM INSTABILITY, HARDWARE FAILURE, DATA LOSS, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR MISUSE OF THIS MATERIAL.
-
-## 8. TERM, TERMINATION, & SEVERABILITY
-This License is effective upon your first access and remains in effect until terminated. Your rights under this License terminate automatically if you violate any of its terms. Upon termination, you must cease all use and destroy all copies of the documentation. 
-
-If any provision of this License is held to be unenforceable or invalid by a court of competent jurisdiction, such provision shall be reformed only to the extent necessary to make it enforceable, and all remaining provisions shall continue in full and absolute force and effect.
-
-## 9. GOVERNING LAW & JURISDICTION
-This License shall be governed by and construed in accordance with the laws of the **State of Delaware, USA**, without regard to its conflict of law provisions. Any disputes arising under this License shall be subject to the exclusive jurisdiction of the state and federal courts located within Delaware.
-
----
-**PROPERTY OF ALEXANDER COLCLOUGH.**
+Accessing this documentation
