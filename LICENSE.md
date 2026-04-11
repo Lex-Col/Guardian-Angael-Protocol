@@ -31,13 +31,14 @@ The **"Guardian Angæl Protocol" (GAP)** v1.1, including its overarching hardwar
 * **THE MANTLE (PERSISTENCE BUFFER - 0x1028):** The dual-slot (A/B) BBRAM context buffer protected by PMIC fuel-gauge audits.
 * **POSITIVE HEARTBEAT DECAY (INVERTED DEAD-MAN'S SWITCH):** A hardware safety counter (<100ms) that physically zeroizes BBRAM if a cryptographic "Kick" is missed.
 
-### ADVERSARIAL VALIDATION
+### ADVERSARIAL VALIDATION & TRADE SECRETS
 * **THE ORACLE TEST (SCENARIO 6):** The proprietary diagnostic crucible designed for boundary-escape stress testing.
+* **TRADE SECRETS:** All specific tape-out parameters, exact assembly stubs, and HSM-seed generation logic included herein are designated as proprietary Trade Secrets.
 
 This protection extends to all architectural blueprints, logic workflows, tape-out parameters, assembly stubs, C++ or AArch64 simulations, and **any and all derivative applications or conceptual evolutions** based on this work.
 
-## 2. PERMITTED USE (INDIVIDUAL ONLY)
-Permission is granted to **individuals** for strictly **non-commercial, personal** use. This right is non-transferable and does not extend to any corporation, organization, government entity, or commercial lab:
+## 2. PERMITTED USE (STRICTLY INDIVIDUAL)
+Permission is granted to **individuals** for strictly **non-commercial, personal** use. For the purposes of this License, an "individual" is defined strictly as a natural person acting solely in their personal capacity, and explicitly EXCLUDES any person acting as an employee, contractor, researcher, or agent for any corporation, government entity, military organization, or academic institution.
 * **Intellectual Audit:** Reviewing and studying the technical logic and hardware-enforced isolation layers.
 * **Simulation Validation:** Executing GAP simulations (e.g., QEMU CCA or C++ testbenches) in a private capacity.
 * **Personal Research:** Utilizing the framework for individual understanding of hardware-level AI confinement.
@@ -46,17 +47,25 @@ Permission is granted to **individuals** for strictly **non-commercial, personal
 Any use outside Section 2 is strictly prohibited.
 * **ZERO-TOLERANCE ON DERIVATIVES:** You are strictly forbidden from creating, distributing, or utilizing **any and all derivative works**, frameworks, "wrappers," or modified logic branches based on the GAP v1.1 architecture, whether for public or private use.
 * **Commercial/Enterprise Deployment:** Integrating GAP v1.1 logic or the "Deaf Warden" architecture into any revenue-generating software, enterprise security stack, or hardware product.
-* **Automated Exploitation (AI Training):** Use of this methodology or documentation to train, fine-tune, or prompt-engineer LLMs or AI systems is **STRICTLY PROHIBITED**.
+* **Automated Exploitation (AI Training):** Accessing, scraping, or utilizing this methodology or documentation to train, fine-tune, or prompt-engineer Large Language Models (LLMs) or AI systems is **STRICTLY PROHIBITED**.
 * **Plagiarism/Redistribution:** Redistribution on unauthorized platforms or removal of the "Alexander Colclough" attribution is a violation of this license.
 
-## 4. ATTRIBUTION & AUTOMATIC OWNERSHIP
-Any public discussion or peer review must credit **Alexander Colclough (@Lex-Col)** as the original Architect. Any unauthorized derivative work or modification created in violation of this license—regardless of the degree of change—is legally and automatically the property of the Author.
+## 4. ATTRIBUTION & CONTRACTUAL ASSIGNMENT OF DERIVATIVES
+Any public discussion or peer review must credit **Alexander Colclough (@Lex-Col)** as the original Architect. 
 
-## 5. NO IMPLIED GRANT & ENFORCEMENT
-Viewing this documentation does NOT grant a license to any patents or trademarks. The Author reserves the right to pursue all available legal remedies for intellectual property theft. Unauthorized use automatically terminates all implied rights.
+**CONTRACTUAL ASSIGNMENT:** By accessing, downloading, or otherwise obtaining this documentation, you explicitly agree that should you create any unauthorized derivative work or modification in violation of this license, you shall immediately and irrevocably assign all rights, title, and ownership in such work to Alexander Colclough upon demand, at no cost.
 
-## 6. DISCLAIMER
-THIS PROTOCOL IS PROVIDED "AS IS." THE ARCHITECT DISCLAIMS ALL WARRANTIES. THE OPERATOR ASSUMES ALL RISK REGARDING HARDWARE STATE AND SYSTEM STABILITY.
+## 5. PATENT RESERVATION & NO IMPLIED GRANT
+Accessing, downloading, or viewing this documentation does NOT grant, expressly or implicitly, any license under any patent, trademark, or trade secret rights held by the Author. The implementation of the functional methods, systems, and architectures described herein in any commercial capacity requires a separate, negotiated patent and commercial use license from the Author.
+
+## 6. FULL LEGAL DISCLAIMER
+THIS PROTOCOL AND ALL ASSOCIATED DOCUMENTATION ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, SYSTEM INSTABILITY, HARDWARE FAILURE, DATA LOSS, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OR MISUSE OF THIS PROTOCOL.
+
+## 7. GOVERNING LAW & JURISDICTION
+This License shall be governed by and construed in accordance with the applicable laws of the Architect's legal domicile, without regard to its conflict of law provisions. Any disputes arising under this License shall be subject to the exclusive jurisdiction of the state and federal courts located within that jurisdiction.
+
+## 8. SEVERABILITY
+If any provision of this License is held to be unenforceable or invalid by a court of competent jurisdiction, such provision shall be reformed only to the extent necessary to make it enforceable, and all remaining provisions shall continue in full and absolute force and effect.
 
 ---
 **PROPERTY OF ALEXANDER COLCLOUGH.**
