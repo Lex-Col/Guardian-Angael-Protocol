@@ -1,4 +1,4 @@
-# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.3
+# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.4
 
 **BY DOWNLOADING, CLONING, VIEWING, OR OTHERWISE ACCESSING THIS DOCUMENTATION OR REPOSITORY, YOU EXPLICITLY AND IRREVOCABLY AGREE TO ALL TERMS OUTLINED IN THIS BINDING CONTRACT.**
 
@@ -7,7 +7,7 @@
 ---
 
 ## 1. OWNERSHIP & UNIVERSAL ARCHITECTURAL SCOPE
-The **Universal Proprietary Architecture License (UPAL)** v1.3 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
+The **Universal Proprietary Architecture License (UPAL)** v1.4 unifies and exclusively governs the **Guardian Angæl Protocol (GAP)** and **The Volition Coalition (TVC)**. All hardware-enforced confinement logic, multi-agent adversarial workflows, and related methodologies are the exclusive intellectual property of Alexander Colclough. 
 
 This protection explicitly covers the following defined proprietary assets and their functional logic, eliminating any ambiguity regarding the protected scope:
 
@@ -33,8 +33,9 @@ This protection explicitly covers the following defined proprietary assets and t
 * **THE GAUNTLET™:** The Multi-Round Multi-AI Peer Review adversarial audit system and its 4-Phase logic-hardening pipeline.
 * **MACSC FRAMEWORK:** The Multi-Agent Context-Sharded Consensus engine used to force adversarial intelligence verification.
 * **THE SYNTHESIS EQUATION ($L_h$):** The mathematical filter applied during the Workshop phase to measure entropy and objective validity.
-* **PSC (PARTNER-IN-STATE) PROTOCOL:** The dedicated Project Historian agent ensuring the Architect's intent survives hardware resets and session timeouts.
-* **AXIOM PINNING:** The memory-locking protocol that hard-codes foundational project truths to prevent logic drift.
+* **HYBRID SAP DUAL-STREAM RECEIPT:** The simultaneous dual-parsing telemetry routing that splits Gauntlet audit outputs into a machine-indexed JSON stream (exclusively for PSC state updates) and a human-readable Markdown report containing the full unredacted paper trail (including Human-Only Rejection Logs).
+* **PSC (PARTNER-IN-STATE) PROTOCOL:** The dedicated Project Historian utilizing Strategic Siloing to ensure the Architect's intent survives hardware resets while remaining actively shielded from rejected audit data.
+* **AXIOM PINNING & AVP:** The memory-locking protocol that hard-codes foundational project truths to prevent logic drift, governed by the 4-step Axiom Versioning Protocol.
 * **WATERFALL INITIATION PROTOCOL:** The sequential system boot-up sequence that verifies isolations and synchronizes all agents to the Gold Manifest.
 * **CONTINUITY ANCHOR:** The context-bridging mechanism ensuring nuanced data points survive the transition between audit phases.
 * **TACTICAL TRANSLATOR:** The logic bridge responsible for converting high-level architectural goals into low-level terminal execution workflows.
@@ -44,7 +45,7 @@ This protection explicitly covers the following defined proprietary assets and t
 * **CLOUD-HYBRID VAULT (PPR):** The Persistent Project Repository offering multi-tier storage to keep IP isolated and immutable.
 
 ### TRADE SECRETS & PRIOR ART
-* **TRADE SECRETS:** All specific tape-out parameters, assembly stubs, HSM-seed generation logic, telemetry calibration constants, and prompt-engineering sequences are designated as proprietary Trade Secrets.
+* **TRADE SECRETS:** All specific tape-out parameters, assembly stubs, HSM-seed generation logic, telemetry calibration constants, JSON data schemas, and prompt-engineering sequences are designated as proprietary Trade Secrets.
 * **PRIOR ART ANCHOR:** Core concepts and methodologies were legally established via GPG-signed and server-verified GitHub timestamps. 
 
 This protection extends to all architectural blueprints, logic workflows, diagrams, telemetry parameters, and **any and all derivative applications or conceptual evolutions** based on this work, regardless of project name or branding.
@@ -88,12 +89,3 @@ This License shall be governed by and construed in accordance with the laws of t
 
 ---
 **PROPERTY OF ALEXANDER COLCLOUGH.**
-
-### [SYSTEM_STATE_AUDIT] - v1.3
-* **STATUS:** COMPLIANCE MODE ACTIVE. DIRECTIVE ENFORCED.
-* **REVISION:** UPAL v1.3 (Ambiguity Eradicated).
-* **KEY UPGRADES:**
-    - Explicit definitions and functional scopes re-injected for every single GAP and TVC asset in Section 1.
-    - Zero ambiguity left regarding what constitutes the "Scrap Yard," "Gates," or "Waterfall Protocol."
-* **VERSION:** 1.3 (UPAL Master).
-* **DRIFT CHECK:** No code generated. All strict formatting rules adhered to.
