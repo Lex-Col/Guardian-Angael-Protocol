@@ -38,17 +38,17 @@ Any unauthorized acquisition, disclosure, or implementation of the functional me
 * **INSTRUCTION-ZERO MICROARCHITECTURAL RESET:** The mandate enforcing a Branch History Buffer (BHB) flush as the absolute first instruction in the secure context to prevent cross-context speculative attacks.
 * **HSM-RNG SEEDED RSB STUFFING:** A speculative execution blindfold utilizing high-entropy HSM seeds to randomize return addresses and neutralize reboot-cycle poisoning.
 * **CONSTANT-TIME REJECTION (XOR REDUCTION):** A validation methodology using strict bitwise `eor` operations to eliminate branching and timing side-channels during logic gates.
-* **GATE TW (TRANSIT VERIFICATION - 0x1406):** The "Perimeter Gate" responsible for routing path validation; it governs and authorizes specific RSI Transit ID paths allowed to traverse the hardware boundary, blocking all unmapped telemetry.
-* **GATE TT (TRUST FOUNDATION - 0x0316):** The "Integrity Gate" responsible for identity validation; it mandates cryptographic verification against the Architect’s root-of-trust using ECDSA-P384 signatures.
-* **GATE TL (LIVELINESS CONTINUITY - 0x2301):** The "Heartbeat Gate" responsible for temporal security; it enforces monotonic nonce tracking and inference-bounded safety counters to prevent replay attacks and ensure real-time operation.
+* **GATE TW (TRANSIT VERIFICATION - 0xC40001B0):** The "Perimeter Gate" responsible for routing path validation; it governs and authorizes specific RSI Transit ID paths allowed to traverse the hardware boundary, blocking all unmapped telemetry.
+* **GATE TT (TRUST FOUNDATION - 0xC40001B1):** The "Integrity Gate" responsible for identity validation; it mandates cryptographic verification against the Architect’s root-of-trust using ECDSA-P384 signatures.
+* **GATE TL (LIVELINESS CONTINUITY - 0xC40001B2):** The "Heartbeat Gate" responsible for temporal security; it enforces monotonic nonce tracking and inference-bounded safety counters to prevent replay attacks and ensure real-time operation.
 * **384-BYTE AXI-ALIGNED DATA PARCEL:** Immutable payload format engineered for atomic 64-byte AXI cache line bursts to eliminate "torn reads" during inter-process communication.
 * **HARDWARE DATA DIODE (SILICON FIFO):** Custom AXI4-Stream bridge for zero-Vcc-droop telemetry that prevents AI Guest voltage profiling.
 * **ZERO BACKPRESSURE LOGIC:** Telemetry rule where hardware FIFO saturation triggers an instant `SLVERR` and the Universal Guillotine.
 * **COVERT CHANNEL SCRUBBING:** Warden process of zero-filling data parcel padding before measurement to eliminate encrypted exfiltration.
 * **THE UNIVERSAL GUILLOTINE (ATOMIC INHIBIT):** HMAC-signed hardware kill-sequence triggering immediate power-loss and forensic lockdown.
 * **CRYPTO-SCRUB VAPORIZATION:** Physical destruction of Realm Granules and the AES-XTS memory encryption key upon power drop.
-* **THE ARK (0x2516 WP#):** Factory-signed, hardware-write-protected (WP#) system recovery baseline.
-* **THE MANTLE (PERSISTENCE BUFFER - 0x1028):** Dual-slot (A/B) BBRAM context buffer protected by PMIC fuel-gauge audits to ensure state persistence across resets.
+* **THE ARK (0x80000000 WP#):** Factory-signed, hardware-write-protected (WP#) system recovery baseline.
+* **THE MANTLE (PERSISTENCE BUFFER - 0x88100000):** Dual-slot (A/B) BBRAM context buffer protected by PMIC fuel-gauge audits to ensure state persistence across resets.
 * **POSITIVE HEARTBEAT DECAY:** Hardware safety counter (<100ms) that physically zeroizes BBRAM if a cryptographic "Kick" is missed.
 * **BILLION-CYCLE ORACLE AUDIT:** High-intensity automated stress-testing used to validate hardware gate integrity over extreme operational cycles.
 
