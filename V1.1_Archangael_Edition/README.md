@@ -4,7 +4,6 @@
 Architect: Alexander Colclough (@Lex-Col)
 Version: V1.1 (The Archangæl Expansion - Production Blueprint)
 Platform: ARMv9-A Confidential Compute Architecture (CCA)
-Target SoC: Dimensity 6300 (MT6835T)
 Status: VALIDATED — PRODUCTION BASELINE
 
 ---
