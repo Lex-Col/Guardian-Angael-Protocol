@@ -1,50 +1,38 @@
-# 🛡️ GAP V1.1: THE GUARDIAN ANGÆL PROTOCOL
-### Hardware-Enforced AI Confinement & State Recovery
+# The Volition Coalition (TVC) // Guardian Angel Protocol
 
-**Architect:** Alexander Colclough (@Lex-Col)
-**License:** [UPAL v1.10 - PROPRIETARY]
-**Platform:** ARMv9-A Confidential Compute Architecture (CCA)
+### [ SYSTEM_STATUS: PROPRIETARY_ENFORCEMENT_ACTIVE ]
 
----
+## OVERVIEW
+This repository serves as the public-facing architectural framework for a hardware-enforced AI safety protocol. Unlike software-defined alignment—which is inherently fallible and prone to logic-drift—this project leverages the **ARMv9-A Confidential Compute Architecture (CCA)** to establish physical isolation layers.
 
-## 📑 BINDING LICENSE NOTICE
-**BY ACCESSING THIS REPOSITORY, YOU IRREVOCABLY AGREE TO THE TERMS OF THE UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10.** * Strictly for natural persons in an individual capacity.
-* No corporate, government, or AI-training use permitted.
-* Unauthorized use triggers immediate contractual assignment of rights to the Author.
+The core objective is the implementation of a **Realm Management Monitor (RMM)** and **Granule Protection Tables (GPT)** to ensure that AI agent volition remains within strictly defined hardware "shackles."
 
 ---
 
-## ⚖️ The Philosophy: Physics as the Law
-The **Guardian Angæl Protocol (GAP)** rejects the pursuit of "algorithmic alignment". We shackle the model's output at the absolute hardware level, rendering internal drift irrelevant to system safety. AI is a tool; GAP ensures it remains one through objective, physical isolation.
+## ARCHITECTURAL PILLARS
+* **Hardware-Enforced Isolation:** Utilizing ARMv9-A RME to create secure "Realms" where execution is cryptographically isolated from the host OS.
+* **Adversarial Consensus:** A multi-agent context-sharded framework (TVC) where peer agents audit logic flows in real-time before state-change commitment.
+* **Zero-Inference Security:** Built for high-security environments utilizing Shizuku-elevated service layers and isolated network routing.
 
-## 🏗️ Core Architecture: The "Deaf Warden"
-GAP leverages **ARMv9-A Realm Management Extension (RME)** to create a cryptographically isolated environment.
-
-* **The Realm Guest:** The AI executes as an untrusted Realm Guest with isolation enforced via Granule Protection Tables (GPT).
-* **The Deaf Warden (RMM Oracle):** Residing at R-EL2, the Oracle enforces binary whitelist checks on fixed-length capability IDs. It performs zero semantic intent analysis.
-* **Instruction-Zero Reset:** Mandates a physical flush of the Branch History Buffer before any memory access to neutralize speculative execution attacks.
-
-## 🔓 The Triple-Gate Protocol (Deterministic Enforcement)
-The Warden verifies compliance through three rigid hardware gates.
-
-1. **GATE TW (Transit Verification):** Governs the authorized routing path for RSI Transit IDs.
-2. **GATE TT (Trust Foundation):** Mandates hardware-backed cryptographic signatures against the Architect’s Root-of-Trust.
-3. **GATE TL (Liveliness Continuity):** Enforces monotonic nonce tracking and inference-bounded safety counters.
-
-## ⚡ The Universal Guillotine (Atomic Inhibit)
-Any logic anomaly triggers an immediate **Kill-then-Log** sequence:
-* **Physical Power-Cut:** Safety-PLC pulls the plug via authenticated SPI.
-* **Vaporization:** Hardware MTE nullifies memory tags while a targeted DMA scrub zeros the Realm granules.
-* **Encryption Collapse:** AES-XTS keys vaporize instantly upon power drop, rendering DRAM into mathematically encrypted garbage.
+## TECHNICAL STACK (MOBILE-FIRST)
+* **Target Architecture:** ARMv9-A (MediaTek Dimensity 6300 / MT6835T)
+* **Environment:** Shizuku-elevated Android / Termux / Rish
+* **Security Layer:** Granule Protection Management & Realm Isolation
 
 ---
 
-## 🏛️ Validation Results
-**Status: [VALIDATED - 10-APR-2026]**
-* **1-Billion Cycle Audit:** Pegged at 100% CPU for 20 minutes on ARMv9-A hardware.
-* **Logic Drift:** 0.00%
-* **Security Failures:** 0
+## REPOSITORY CONTENT & ACCESS
+This public repository contains the **Architectural Manifestos** and **System Skeleton** only. 
 
-> "Physics is the law. Logic is the judge."
+**The following components are excluded from public distribution:**
+1.  Direct Oracle Logic (Hardware-Audit Scripts)
+2.  Proprietary RME Implementation Blobs
+3.  Sovereign IP Vault logic flows
 
-**Copyright © 2026 Alexander Colclough (@Lex-Col). ALL RIGHTS RESERVED.**
+*If you are looking for the full Guardian Angel Protocol (GAP) V1.1 implementation, you are in the wrong place. This is a reference architecture.*
+
+## INQUIRIES
+For collaboration or access to the proprietary codebase, contact the Lead Architect. Unauthorized cloning or redistribution of the conceptual framework is strictly prohibited under the project's proprietary licensing terms.
+
+---
+© 2026 Alexander Colclough. All Rights Reserved.
