@@ -3,25 +3,25 @@
 ### VERSION: 5.1.0-SOVEREIGN
 
 **Architect:** Alexander Colclough (@Lex-Col)
-**Unified Umbrella:** GAP | TVC | SIPV
+**Unified Umbrella:** Guardian Angel Protocol (GAP) | COUNCIL LOGOS | SOVEREIGN IP
 **Status:** RESTRICTED DISCLOSURE // DEFENSIVE PUBLICATION
 **Jurisdiction:** State of Delaware, USA
 
 ---
 
 ## 🏛️ 1. NOTICE OF INTELLECTUAL PROPERTY
-**THIS IS NOT OPEN SOURCE.** This repository serves as a **Defensive Publication** under **35 U.S.C. § 102** to establish **Prior Art** for the architectural concepts defined herein, including the Guardian Angæl Protocol (GAP), The Volition Coalition (TVC), and the Sovereign IP Vault (SIPV). 
+**THIS IS NOT OPEN SOURCE.** This repository serves as a **Defensive Publication** under **35 U.S.C. § 102** to establish **Prior Art** for the architectural concepts defined herein, including the Guardian Angel Protocol (GAP), Council Logos, and Sovereign IP. 
 
 **ALL RIGHTS RESERVED.** No license—express or implied—is granted to utilize, implement, distribute, or create derivative works based on this architecture. 
 
-**TRADE SECRET RETENTION:** The functional implementation logic—including, but not limited to, Hex-Gate mappings (0x1406, 0x0316, 0x2301), microarchitectural reset sequences (Instruction-Zero), and 384-byte AXI-aligned parcel bit-logic—remains a **Protected Trade Secret** under **18 U.S.C. § 1836 (DTSA)** and the **Delaware Uniform Trade Secrets Act (DUTSA)**. These core assets are not disclosed in this public branch. Unauthorized reconstruction or implementation may constitute:
+**TRADE SECRET RETENTION:** The functional implementation logic—including, but not limited to, Hex-Gate mappings, microarchitectural reset sequences (Instruction-Zero), and high-width AXI-aligned parcel bit-logic—remains a **Protected Trade Secret** under **18 U.S.C. § 1836 (DTSA)** and the **Delaware Uniform Trade Secrets Act (DUTSA)**. These core assets are not disclosed in this public branch. Unauthorized reconstruction or implementation may constitute:
 * **(i) Willful Misappropriation of Trade Secrets** under 18 U.S.C. § 1836 (DTSA) and applicable state law.
 * **(ii) Copyright Infringement** under 17 U.S.C. § 106.
 
 ---
 
 ## ⚠️ 2. TERMS OF ACCESS & SECURITY PROTOCOL
-Access to the **Sovereign IP Vault (SIPV)** and full implementation logic is strictly restricted to authorized individuals who have executed the **UPAL v5.1 Evaluation Agreement** prior to entry. 
+Access to the **Sovereign IP Vault** and full implementation logic is strictly restricted to authorized individuals who have executed the **UPAL v5.1.0-SOVEREIGN Evaluation Agreement** prior to entry. 
 
 **LEGAL NOTICE:** Any unauthorized implementation of the protected architectural flows found herein will be subject to:
 * **Actual damages** and/or **liquidated damages** in the amount of **$50,000 USD per distinct violation**.
@@ -30,23 +30,23 @@ Access to the **Sovereign IP Vault (SIPV)** and full implementation logic is str
 
 ---
 © 2026 Alexander Colclough. All Rights Reserved.
-**Access Restricted to UPAL v5.1 Signatories Only**
+**Access Restricted to UPAL v5.1.0-SOVEREIGN Signatories Only**
 
 ---
 ---
 
-# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v5.1
+# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v5.1.0-SOVEREIGN
 ### THE ARCHANGÆL SOVEREIGN SHIELD // EVALUATION CONTRACT
 
 **Architect & Licensor:** Alexander Colclough (@Lex-Col)
-**Version:** 5.1 (Active/Stable)
+**Version:** 5.1.0-SOVEREIGN (Active/Stable)
 **Governing Law:** State of Delaware, USA
 **Effective Date:** Upon Affirmative Act of Assent
 
 ---
 
 ## 1. CONFIDENTIALITY & TRADE SECRET STATUS
-Licensee acknowledges that the implementation logic disclosed in the "Vault"—specifically the Hex-Gate register mappings, Instruction-Zero reset micro-code, and 384-byte AXI-aligned data parcel formatting—constitutes a **Trade Secret** under the Defend Trade Secrets Act (DTSA). Licensee agrees to maintain strict confidentiality and utilize reasonable security measures (encryption/access controls) to prevent unauthorized disclosure.
+Licensee acknowledges that the implementation logic disclosed in the "Vault"—specifically the Hex-Gate register mappings, Instruction-Zero reset micro-code, and optimized AXI-aligned data parcel formatting—constitutes a **Trade Secret** under the Defend Trade Secrets Act (DTSA). Licensee agrees to maintain strict confidentiality and utilize reasonable security measures (encryption/access controls) to prevent unauthorized disclosure.
 
 ## 2. LIMITED EVALUATION LICENSE
 Subject to affirmative assent, Licensor grants Licensee a personal, non-exclusive, revocable license strictly for **Individual, Non-Commercial Research**. 
@@ -67,4 +67,4 @@ Licensee agrees not to utilize any Confidential Information or architectural ske
 **5.2 Export Control:** User agrees to comply with all applicable export laws, including the Wassenaar Arrangement, regarding the transit of cryptographic or hardware-security technology.
 
 ---
-**BY ACCESSING THE PRIVATE VAULT, YOU IRREVOCABLY AGREE TO THE TERMS OF UPAL v5.1.**
+**BY ACCESSING THE PRIVATE VAULT, YOU IRREVOCABLY AGREE TO THE TERMS OF UPAL v5.1.0-SOVEREIGN.**
