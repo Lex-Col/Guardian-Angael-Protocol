@@ -1,7 +1,7 @@
 # 🛡️ Guardian Angel Protocol (GAP)
 ### [ STATUS: PROPRIETARY_ENFORCEMENT_ACTIVE ]
 
-⚠️ **LEGAL NOTICE: UPAL V5.1.0-SOVEREIGN**
+⚠️ **LEGAL NOTICE: UPAL V5.1.3
 Accessing this repository constitutes a binding legal agreement to the Universal Proprietary Architecture License (UPAL) V5.1.0-SOVEREIGN. This is NOT open-source.
 
 ---
