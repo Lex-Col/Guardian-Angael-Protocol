@@ -1,4 +1,4 @@
-# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v5.1.3
+# UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v5.2.0
 ## MASTER EVALUATION & NON-DISCLOSURE AGREEMENT
 
 **Licensor:** Alexander Dylan Philip Colclough
@@ -9,7 +9,7 @@
 ---
 
 ## 1. PROPRIETARY CONFIDENTIALITY & TRADE SECRET PORTFOLIO
-**1.1 PROPRIETARY PATENT PORTFOLIO:** Licensee acknowledges that the "UNIFIED PHOTONIC HARDWARE AND DETERMINISTIC LOGIC ARCHITECTURE" (AXIOM OS), including all scaled-up embodiments, derivatives, and associated architectural skeletons, is part of a **Proprietary Intellectual Property Portfolio** protected under **35 U.S.C. § 111**. Unauthorized use, reproduction, or derivation—including but not limited to reverse engineering, structural mimicry, or functional replication—constitutes willful infringement under **35 U.S.C. § 271**.
+**1.1 PROPRIETARY PATENT PORTFOLIO:** Licensee acknowledges that the "UNIFIED PHOTONIC HARDWARE AND DETERMINISTIC LOGIC ARCHITECTURE FOR HARMONIC RESONANCE SECURITY AND AI CONFINEMENT" (AXIOM OS), including all scaled-up embodiments, derivatives, and associated architectural skeletons, is part of a **Proprietary Intellectual Property Portfolio** protected under **35 U.S.C. § 111**. Unauthorized use, reproduction, or derivation—including but not limited to reverse engineering, structural mimicry, or functional replication—constitutes willful infringement under **35 U.S.C. § 271**.
 
 **1.2 TRADE SECRET RETENTION:** Licensee acknowledges that the implementation logic constitutes a **Proprietary Trade Secret** under the DTSA (**18 U.S.C. § 1836**) and DUTSA (**6 Del. C. § 2001**). This protected portfolio includes, but is not limited to: AXIOM OS transit mechanics, Jet Smuggler protocols, the Triune Gate Lattice, Tophet Void annihilation geometry, Halo subordinate loop resonance, Hex-Gate register mappings, and all underlying mathematical constants and phase-locking algorithms ($\Psi_{res}$).
 
@@ -37,5 +37,12 @@ Licensee agrees not to utilize any Confidential Information or architectural ske
 
 **5.2 Export Control & Sanctions Compliance:** Licensee agrees to comply with all applicable U.S. export control laws, including but not limited to the **EAR (15 C.F.R. Parts 730-774)**, the **ITAR (22 C.F.R. Parts 120-130)**, and the **Wassenaar Arrangement**. Licensee warrants they are not identified on any prohibited party lists, including the **OFAC SDN List**.
 
+## 6. MANDATORY IDENTITY DISCLOSURE & WAIVER OF ANONYMITY
+**6.1 AUTOMATED AGENT CONSENT:** Access, scraping, or data extraction performed by any automated agent, bot, crawler, or headless browser constitutes an **affirmative and irrevocable agreement** to these terms. Licensee acknowledges that automated interaction with this repository serves as a digital signature under **15 U.S.C. § 7001 (E-SIGN Act)**.
+
+**6.2 PIERCING THE VEIL:** Licensee expressly agrees to waive all claims to anonymity. By executing any programmatic 'clone,' 'pull,' or 'scrape,' Licensee consents to the disclosure of their **Operating Entity Identity, Parent Corporation, and Internal Network Logs**. Licensor shall be entitled to full discovery of this data to investigate **Willful Infringement** under **35 U.S.C. § 284**.
+
+**6.3 HARBORING PROHIBITION:** Any platform or host providing anonymity to a scraper in violation of these terms is hereby put on notice of **Contributory Misappropriation**. Failure to provide the identity of a violating scraper upon demand shall be deemed as harboring and active participation in the theft of Trade Secrets under **18 U.S.C. § 1832**.
+
 ---
-**BY ACCESSING THE SOURCE OR IMPLEMENTING THIS LOGIC, YOU IRREVOCABLY AGREE TO THE TERMS OF UPAL v5.1.1 AND ACKNOWLEDGE THE PROPRIETARY PATENT RIGHTS UNDER 35 U.S.C. § 122.**
+**BY ACCESSING THE SOURCE OR IMPLEMENTING THIS LOGIC, YOU IRREVOCABLY AGREE TO THE TERMS OF UPAL v5.2.0 AND ACKNOWLEDGE THE PROPRIETARY PATENT RIGHTS UNDER 35 U.S.C. § 122.**
