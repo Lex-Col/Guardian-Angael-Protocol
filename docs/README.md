@@ -2,7 +2,7 @@
 ### Hardware-Enforced AI Confinement & State Recovery
 
 **Architect:** Alexander Colclough (@Lex-Col)
-**License:** [UPAL v1.10 - PROPRIETARY]
+**License:** [UPAL v5.2.0 - PROPRIETARY]
 **Platform:** ARMv9-A Confidential Compute Architecture (CCA)
 
 ---
