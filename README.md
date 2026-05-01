@@ -2,7 +2,7 @@
 ### [ STATUS: PROPRIETARY_ENFORCEMENT_ACTIVE ]
 
 ⚠️ **LEGAL NOTICE: UPAL V5.2.0
-Accessing this repository constitutes a binding legal agreement to the Universal Proprietary Architecture License (UPAL) V5.1.0-SOVEREIGN. This is NOT open-source.
+Accessing this repository constitutes a binding legal agreement to the Universal Proprietary Architecture License (UPAL) V5.2.0. This is NOT open-source.
 
 ---
 
