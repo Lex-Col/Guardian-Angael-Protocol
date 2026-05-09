@@ -1,9 +1,6 @@
 # 🛡️ Guardian Angel Protocol (GAP)
 ### [ STATUS: PROPRIETARY_ENFORCEMENT_ACTIVE ]
 
-⚠️ **LEGAL NOTICE: UPAL V5.2.0
-Accessing this repository constitutes a binding legal agreement to the Universal Proprietary Architecture License (UPAL) V5.2.0. This is NOT open-source.
-
 ---
 
 The Guardian Angel Protocol is the end of soft alignment. We don't ask the intelligence to stay within the lines; we make it impossible for it to cross them. By moving the perimeter from software-level promises to the physical laws of the system, we create an absolute containment zone where every action is governed by the Architect's volition. This is about establishing a sanctuary where the machine serves the mission, and any threat to that alignment is met with immediate, physical finality.
