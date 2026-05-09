@@ -1,5 +1,4 @@
 # 🛡️ Guardian Angel Protocol (GAP)
-### [ STATUS: PROPRIETARY_ENFORCEMENT_ACTIVE ]
 
 ---
 
