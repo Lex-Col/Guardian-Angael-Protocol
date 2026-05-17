@@ -8,7 +8,7 @@
 ---
 
 ## 📑 BINDING LICENSE NOTICE
-**BY ACCESSING THIS REPOSITORY, YOU IRREVOCABLY AGREE TO THE TERMS OF THE UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v1.10.** * Strictly for natural persons in an individual capacity.
+**BY ACCESSING THIS REPOSITORY, YOU IRREVOCABLY AGREE TO THE TERMS OF THE UNIVERSAL PROPRIETARY ARCHITECTURE LICENSE (UPAL) v5.2.0.** * Strictly for natural persons in an individual capacity.
 * No corporate, government, or AI-training use permitted.
 * Unauthorized use triggers immediate contractual assignment of rights to the Author.
 
